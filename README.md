@@ -76,8 +76,11 @@ _**Goal**_: Forecasted sales using ARIMA and Facebook Prophet
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arhgreen&show_icons=true&theme=default&count_private=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/langs/?username=arhgreen&layout=compact&hide=html,css&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhgreen&layout=compact&hide=html,css&theme=default" />
 </p>
+
+---
+> _"Data is the new oil, but insight is the spark."_  
+> — _You, probably._
 
 ---
