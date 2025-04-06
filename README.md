@@ -74,7 +74,7 @@ _**Goal**_: Forecasted sales using ARIMA and Facebook Prophet
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhgreen&layout=compact&hide=html,css&theme=default" />
 </p>
 
