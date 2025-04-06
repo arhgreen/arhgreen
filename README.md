@@ -54,3 +54,21 @@ I specialize in **applied statistics**, **data storytelling**, and **evidence-ba
 </table>
 
 ---
+## 🧩 Featured Projects
+
+### 📌 [Project Title 1]
+_**Goal**_: Customer churn modeling using classification techniques  
+🧪 Tools: Python, scikit-learn, matplotlib  
+🔗 [GitHub Repo](#)
+
+### 📌 [Project Title 2]
+_**Goal**_: Built a real-time data dashboard tracking market trends  
+🧪 Tools: R, Shiny, plotly  
+🔗 [GitHub Repo](#)
+
+### 📌 [Project Title 3]
+_**Goal**_: Forecasted sales using ARIMA and Facebook Prophet  
+🧪 Tools: R, forecast, Prophet  
+🔗 [GitHub Repo](#)
+
+---
