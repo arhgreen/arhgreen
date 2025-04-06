@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Welcome — I'm [Aaron H Green]</strong></h1>
+<h1 align="center"><strong>Welcome — I'm Aaron H Green</strong></h1>
 <h3 align="center">Statistician | Data Analyst | Consultant</h3>
 
 <p align="center">
