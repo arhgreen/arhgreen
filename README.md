@@ -27,9 +27,8 @@ I specialize in **applied statistics**, **data storytelling**, and **evidence-ba
 
 ---
 
-## ✦ Core Expertise
+## 🧰 Core Expertise
 
-## 🧰 Toolbox
 
 <table>
   <tr>
