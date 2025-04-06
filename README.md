@@ -1,64 +1,89 @@
-<h1 align="center">Hi, I'm <strong>Aaron H. Green</strong> 👋</h1>
-<h3 align="center">📊 Statistician | 📈 Data Analyst | 🎯 Insight Strategist</h3>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h3 align="center">Statistician | Freelance Data Analyst | Data Storyteller</h3>
 
 <p align="center">
-  <a href="mailto:aaron.green@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aaron-h-green-abb827197/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=firefox&logoColor=white" />
-  </a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a Stockholm-based **Statistician** and **Freelance Data Analyst** with a passion for analytical rigor and visual storytelling. I turn data into clarity by applying statistical principles, thoughtful design, and a problem-solving mindset.
-
-📍 **Location**: Stockholm, Sweden  
-🎓 **Background**: Academic training in statistical science & applied analytics  
-💼 **Experience**: 5+ years in consulting, business, public sector & creative data work  
-
-> “Without data, you're just another person with an opinion.” — W. Edwards Deming
+🎓 Statistician by training, data analyst by trade.  
+🔍 I turn noisy data into clear stories and smart decisions.  
+🧰 Proficient in statistical modeling, data visualization, and automation.  
+🌍 Open to freelance opportunities, collaborations, and speaking engagements.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧰 Toolbox
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python · R · SQL · Markdown · LaTeX</td>
+  </tr>
+  <tr>
+    <td><strong>Data Wrangling</strong></td>
+    <td>pandas · dplyr · tidyr · NumPy · OpenRefine</td>
+  </tr>
+  <tr>
+    <td><strong>Modeling</strong></td>
+    <td>scikit-learn · statsmodels · caret · Prophet · ARIMA</td>
+  </tr>
+  <tr>
+    <td><strong>Visualization</strong></td>
+    <td>matplotlib · seaborn · ggplot2 · plotly · Tableau · Power BI</td>
+  </tr>
+  <tr>
+    <td><strong>Other</strong></td>
+    <td>Git · Excel · APIs · Streamlit · Shiny</td>
+  </tr>
+</table>
+
+---
+
+## 🧩 Featured Projects
+
+### 📌 [Project Title 1]
+_**Goal**_: Customer churn modeling using classification techniques  
+🧪 Tools: Python, scikit-learn, matplotlib  
+🔗 [GitHub Repo](#)
+
+### 📌 [Project Title 2]
+_**Goal**_: Built a real-time data dashboard tracking market trends  
+🧪 Tools: R, Shiny, plotly  
+🔗 [GitHub Repo](#)
+
+### 📌 [Project Title 3]
+_**Goal**_: Forecasted sales using ARIMA and Facebook Prophet  
+🧪 Tools: R, forecast, Prophet  
+🔗 [GitHub Repo](#)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Data Science-blue?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Statistics-success?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Data Access-blue?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power BI-BI-yellow?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide=html,css&theme=default" />
 </p>
 
-```text
-📐 Statistical Modeling: Regression · Forecasting · Classification · Time Series  
-📊 Data Viz: ggplot2 · seaborn · matplotlib · plotly · Shiny · Streamlit  
-🧪 Analysis: Hypothesis Testing · Clustering · Text Mining · Survey Analysis  
-🧰 Stack: pandas · NumPy · scikit-learn · caret · dplyr · tidyr
+---
 
-📂 Featured Projects
+## ☕ Let's Connect
 
-📁 Project	🧠 Description	🧰 Stack
-Dansk Kriminalitet	Visual & statistical exploration of Danish crime data	R, Shiny, ggplot2, dplyr
-Bitcoin Analysis	Time series modeling of BTC prices using Prophet	Python, Prophet, matplotlib, pandas
-HR Dashboard	Interactive dashboard for employee KPIs and insights	R, Shiny, plotly, DT
-Poems (Text Mining)	Creative sentiment analysis on poetry datasets	Python, NLTK, wordcloud
-📈 GitHub Insights
+- 🌐 Website: [yourportfolio.com](https://yourportfolio.com)  
+- 📧 Email: your.email@example.com  
+- 🗨 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arhgreen&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhgreen&layout=compact&hide=html,css&theme=default&hide_border=true" height="165" /> </p>
-🤝 Let’s Connect
+---
 
-I’m always open to freelance opportunities, collaborations, or a good data conversation.
+> _"Data is the new oil, but insight is the spark."_  
+> — _You, probably._
 
-📧 Email: aaron.hgreen1@outlook.com
-💼 LinkedIn: aaron-h-green-abb827197
-🌐 Portfolio: yourportfolio.com
-<p align="center"> <em>“Statistics is the art of learning from data. I make sure your data speaks fluently.”</em> </p> ```
+---
+
+⭐️ _If you like my work, feel free to star some repos or connect!_
