@@ -5,8 +5,9 @@
   <a href="mailto:aaron.hgreen1@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact-grey?style=flat-square&logo=gmail" />
   </a>
-  <a href="[https://www.linkedin.com/in/in/aaron-h-green-abb827197](https://www.linkedin.com/in/aaron-h-green-abb827197/)">
+  <a href="https://www.linkedin.com/in/aaron-h-green-abb827197">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
   </a>
 </p>
 
