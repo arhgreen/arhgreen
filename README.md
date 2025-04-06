@@ -79,7 +79,5 @@ _**Goal**_: Forecasted sales using ARIMA and Facebook Prophet
 </p>
 
 ---
-> _"Data is the new oil, but insight is the spark."_  
-> — _You, probably._
-
+> “Without data, you’re just another person with an opinion.” — W. Edwards Deming
 ---
