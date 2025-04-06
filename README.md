@@ -62,6 +62,7 @@ Poems (Text Mining)	NLP & sentiment analysis on poetry corpora	Python, NLTK, wor
 If you're seeking a data partner with a sharp statistical eye and creative problem-solving skills, I’d love to chat.
 
 📬 Email: aaron.hgreen1@outlook.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://in/aaron-h-green-abb827197](www.linkedin.com/in/aaron-h-green-abb827197))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aaron-h-green-abb827197)
+
 
 <p align="center"> <em>“Statistics is the grammar of science.” — Karl Pearson</em> </p> ```
