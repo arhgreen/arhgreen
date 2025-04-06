@@ -1,10 +1,10 @@
 
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
 <a name="logo" align="center" src="/Users/aarongreen/Desktop/stats.jpeg" alt="AREG SDK Home" style="width:100%;height:100%"/></a>
-  <br /><br /><strong>AARON H. GREEN</strong>
+  <br /><br /><strong>WELCOME</strong>
 </h1>
 
-<h1 align="center"><strong>Welcome </strong></h1>
+<h1 align="center"><strong>Hi, I'm Aaron H. Green </strong></h1>
 <h3 align="center">Statistician | Data Analyst | Consultant</h3>
 
 <p align="center">
