@@ -29,9 +29,29 @@ I specialize in **applied statistics**, **data storytelling**, and **evidence-ba
 
 ## ✦ Core Expertise
 
-```text
-• Statistical Modeling        – Regression, Hypothesis Testing, Forecasting
-• Data Cleaning & Wrangling  – Tidyverse, pandas, NumPy, SQL
-• Visualization              – ggplot2, seaborn, matplotlib, Tableau, Power BI
-• Machine Learning           – scikit-learn, caret, clustering, predictive modeling
-• Tools & Stack              – Python, R, Excel, Git, APIs, Shiny, Streamlit
+## 🧰 Toolbox
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python · R · SQL · Markdown · LaTeX</td>
+  </tr>
+  <tr>
+    <td><strong>Data Wrangling</strong></td>
+    <td>pandas · dplyr · tidyr · NumPy · OpenRefine</td>
+  </tr>
+  <tr>
+    <td><strong>Modeling</strong></td>
+    <td>scikit-learn · statsmodels · caret · Prophet · ARIMA</td>
+  </tr>
+  <tr>
+    <td><strong>Visualization</strong></td>
+    <td>matplotlib · seaborn · ggplot2 · plotly · Tableau · Power BI</td>
+  </tr>
+  <tr>
+    <td><strong>Other</strong></td>
+    <td>Git · Excel · APIs · Streamlit · Shiny</td>
+  </tr>
+</table>
+
+---
