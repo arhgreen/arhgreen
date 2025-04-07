@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aaron-h-green-abb827197/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=blue" />
   </a>
 </p>
 
