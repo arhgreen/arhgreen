@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/arhgreen/arhgreen/stats.jpeg)
+![Design and Development](https://github.com/arhgreen/arhgreen/blob/main/stats.jpeg)
 <h1 align="center">Hello, I'm <strong>Aaron H. Green</strong> 👋</h1>
 <h3 align="center">📊 Statistician | 📈 Data Analyst | 🎯 Insight Strategist</h3>
 
