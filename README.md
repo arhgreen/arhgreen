@@ -1,3 +1,4 @@
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 <h1 align="center">Hello, I'm <strong>Aaron H. Green</strong> 👋</h1>
 <h3 align="center">📊 Statistician | 📈 Data Analyst | 🎯 Insight Strategist</h3>
 
