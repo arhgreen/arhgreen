@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arhgreen/arhgreen/main/assets/banner.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm <strong>Aaron H. Green</strong> 👋</h1>
 <h3 align="center">📊 Statistician | 📈 Data Analyst | 🎯 Insight Strategist</h3>
 
