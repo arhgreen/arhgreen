@@ -14,13 +14,7 @@
 
 ## ✦ About Me
 
-I'm a professional **statistician** and **freelance data analyst** based in **Stockholm, Sweden**, passionate about turning messy data into meaningful insight.
-
-I specialize in **applied statistics**, **data storytelling**, and **evidence-based decision making**. My work spans predictive modeling, exploratory analysis, interactive dashboards, and creative data applications.
-
-- 🎓 Academic background in statistical methods and applied analytics  
-- 📊 5+ years consulting across business, tech, public sector & creative fields  
-- 🌍 Open to freelance projects, remote work, and analytical collaborations  
+I am a skilled statistician with a solid foundation in analytics and finance. My expertise includes using statistical tools like R, SPSS, and STATA to analyse data, develop predictive models, and create effective data visualisations. I am passionate about leveraging data to drive business decisions and continuously seek innovative ways to interpret and analyse data. A self-driven professional, I thrive both independently and in team environments, with strong communication skills to present complex insights clearly.
 
 ---
 ## 🛠️ Tools of the Trade
