@@ -23,7 +23,7 @@ I am a skilled statistician with a solid foundation in analytics and finance. My
 <p align="center">
   <img src="https://img.shields.io/badge/R-Statistics & Data Science-blue?style=flat-square&logo=R&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-Data Access-blue?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau & ggplot2-Visualization-orange?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau & Shiny-Visualization-orange?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power BI-Business Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
