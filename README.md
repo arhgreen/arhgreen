@@ -14,7 +14,17 @@
 </p>
 
 ---
+## 🛠️ Tools of the Trade
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data Science-blue?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-Statistics-success?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Data Access-blue?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power BI-Business Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel&logoColor=white" />
+</p>
+---
 
 ## ✦ About Me
 
@@ -54,17 +64,6 @@ I specialize in **applied statistics**, **data storytelling**, and **evidence-ba
 </table>
 
 ---
-
-## 🛠️ Tools of the Trade
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data Science-blue?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Statistics-success?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Data Access-blue?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power BI-Business Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel&logoColor=white" />
-</p>
 
 ## 🧩 Featured Projects
 
