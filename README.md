@@ -30,17 +30,17 @@ I am a skilled statistician with a solid foundation in analytics and finance. My
 
 ## 🧩 Exhbition projects
 
-### 📌 Dansk Kriminalitet
+#### 📌 Dansk Kriminalitet
 _**Goal**_: Customer churn modeling using classification techniques  
 🧪 Tools: Python, scikit-learn, matplotlib  
 🔗 [GitHub Repo](#)
 
-### 📌 HR Dashboard
+#### 📌 HR Dashboard
 _**Goal**_: Built a real-time data dashboard tracking market trends  
 🧪 Tools: R, Shiny, plotly  
 🔗 [GitHub Repo](#)
 
-### 📌 Project Title 3
+#### 📌 Project Title 3
 _**Goal**_: Forecasted sales using ARIMA and Facebook Prophet  
 🧪 Tools: R, forecast, Prophet  
 🔗 [GitHub Repo](#)
