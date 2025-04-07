@@ -1,26 +1,26 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arhgreen/arhgreen/main/assets/banner.png" alt="Banner" width="100%" />
+</p>
 
-<h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
-<a name="logo" align="center" src="/Users/aarongreen/Desktop/stats.jpeg" style="width:100%;height:100%"/></a>
-  <br /><br /><strong>WELCOME</strong>
-</h1>
-
-<h1 align="center"><strong>Hi, I'm Aaron H. Green </strong></h1>
-<h3 align="center">Statistician | Data Analyst | Consultant</h3>
+<h1 align="center">Hi, I'm <strong>Aaron H. Green</strong> 👋</h1>
+<h3 align="center">📊 Statistician | 📈 Data Analyst | 🎯 Insight Strategist</h3>
 
 <p align="center">
-  <a href="mailto:aaron.hgreen1@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-grey?style=flat-square&logo=gmail" />
+  <a href="mailto:aaron.green@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aaron-h-green-abb827197">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/aaron-h-green-abb827197/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 ---
 
 
-## ✦ Who I Am
+## ✦ About Me
 
 I'm a professional **statistician** and **freelance data analyst** based in **Stockholm, Sweden**, passionate about turning messy data into meaningful insight.
 
@@ -33,7 +33,6 @@ I specialize in **applied statistics**, **data storytelling**, and **evidence-ba
 ---
 
 ## 🧰 Core Expertise
-
 
 <table>
   <tr>
@@ -59,6 +58,18 @@ I specialize in **applied statistics**, **data storytelling**, and **evidence-ba
 </table>
 
 ---
+
+## 🛠️ Tools of the Trade
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data Science-blue?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-Statistics-success?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Data Access-blue?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power BI-Business Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel&logoColor=white" />
+</p>
+
 ## 🧩 Featured Projects
 
 ### 📌 Dansk Kriminalitet
