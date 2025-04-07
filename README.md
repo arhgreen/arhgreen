@@ -26,7 +26,7 @@ I specialize in **applied statistics**, **data storytelling**, and **evidence-ba
 ## 🛠️ Tools of the Trade
 
 <p align="center">
-  <img src="https://img.shields.io/badge/R-Statistics & Data Science-blue?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-Statistics & Data Science-blue?style=flat-square&logo=R&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-Data Access-blue?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau & ggplot2-Visualization-orange?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power BI-Business Intelligence-yellow?style=flat-square&logo=powerbi&logoColor=black" />
