@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <strong>Aaron H. Green</strong> 👋</h1>
+<h1 align="center">Hello, I'm <strong>Aaron H. Green</strong> 👋</h1>
 <h3 align="center">📊 Statistician | 📈 Data Analyst | 🎯 Insight Strategist</h3>
 
 <p align="center">
