@@ -32,7 +32,7 @@ I am a skilled statistician with a solid foundation in analytics and finance. My
 ## 🧩 Exhbition projects
 
 #### 📌 Dansk Kriminalitet
-_**Goal**_:   nyanserat och evidensbaserat undersökt Danmarks kriminalpolitiska linjes påverkan på brottsutvecklingen, rättsväsendets funktion och samhällsklimatet
+_**Goal**_: nyanserat och evidensbaserat undersökt Danmarks kriminalpolitiska linjes påverkan på brottsutvecklingen, rättsväsendets funktion och samhällsklimatet
 🧪 Tools: R, HTML, ggplot2  
 🔗 [GitHub Repo](#)
 
