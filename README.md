@@ -40,12 +40,12 @@ _**Goal**_: Nyanserat och evidensbaserat undersökt Danmarks kriminalpolitiska l
 #### 📌 HR Dashboard
 _**Goal**_: Built a real-time HR dashboard tracking relevant KPIs  
 🧪 Tools: R, Shiny, plotly  
-🔗 [GitHub Repo](#)
+🔗 [GitHub](https://github.com/arhgreen/HR-dashboard.git).
 
 #### 📌 Financial forecasting 
 _**Goal**_: Forecasted sales using ARIMA and Facebook Prophet  
 🧪 Tools: R, forecast, Prophet  
-🔗 [GitHub Repo](#)
+🔗 [GitHub](https://github.com/arhgreen/Dansk_Kriminalitet.git).
 
 ---
 
