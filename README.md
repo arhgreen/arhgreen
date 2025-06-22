@@ -35,7 +35,7 @@ I am a skilled statistician with a solid foundation in analytics and finance. My
 _**Goal**_: Nyanserat och evidensbaserat undersökt Danmarks kriminalpolitiska linjes påverkan på brottsutvecklingen, rättsväsendets funktion och samhällsklimatet
 
 🧪 Tools: R, HTML, ggplot2  
-🔗 [GitHub Repo](#)
+🔗 [GitHub](https://github.com/arhgreen/Dansk_Kriminalitet.git).
 
 #### 📌 HR Dashboard
 _**Goal**_: Built a real-time HR dashboard tracking relevant KPIs  
