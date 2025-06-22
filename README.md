@@ -43,9 +43,9 @@ _**Goal**_: Built a real-time HR dashboard tracking relevant KPIs
 🔗 [GitHub](https://github.com/arhgreen/HR-dashboard.git).
 
 #### 📌 Financial forecasting 
-_**Goal**_: Forecasted sales using ARIMA and Facebook Prophet  
+_**Goal**_: Forecasted Bitcoins closing price using the ARIMA and Facebook Prophet models  
 🧪 Tools: R, forecast, Prophet  
-🔗 [GitHub](https://github.com/arhgreen/Dansk_Kriminalitet.git).
+🔗 [GitHub](https://github.com/arhgreen/Bitcoin-analysis.git).
 
 ---
 
